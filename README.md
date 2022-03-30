@@ -1,2 +1,2 @@
 # NavigatingMountSaintHelens
-A search algorithm project which finds the distance between two points on a topographical map of Mount Saint Helens. It uses a python backend and a PySimpleGUI GUI. It is packaged into an executable using PyInstaller.
+A search algorithm project which finds the distance between two points on a topographical map of Mount Saint Helens. It uses a python backend and a PySimpleGUI GUI. It is packaged into an executable using PyInstaller. The program implements Dijkstra's search algorithm as we as the A* and weighted A* algorithms. The A* algorithms have admissible heuristics which aid in their search for the goal point.
