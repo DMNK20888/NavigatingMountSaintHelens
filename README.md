@@ -5,4 +5,4 @@ Getting it running:
 First download all of the files. There are multiple dependencies that need to be downloaded as well. The necessary python packages are PySimpleGUI, Matplotlib, and numpy. Besides these packages any stable version of python 3 needs to be installed as well. 
 
 The command to run the program is: "python Main.py"
-This should be run once you have navigated to the directory where the above files are downloaded.
+This should be run once you have navigated to the directory in terminal where the above files are downloaded.
