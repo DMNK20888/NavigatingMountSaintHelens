@@ -1,5 +1,5 @@
 import PySimpleGUI as PyGUI
-from Main import findPath
+from FindPath import findPath
 from math import log10 , floor
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
