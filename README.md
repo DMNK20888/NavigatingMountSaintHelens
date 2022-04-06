@@ -6,3 +6,6 @@ First download all of the files. There are multiple dependencies that need to be
 
 The command to run the program is: "python Main.py"
 This should be run once you have navigated to the directory in terminal where the above files are downloaded.
+
+
+AIModule.py holds the pathfinding algorithms for A*, Dijkstra's, and weighted A*.
